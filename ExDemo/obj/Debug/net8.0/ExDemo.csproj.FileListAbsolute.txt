@@ -1,0 +1,14 @@
+C:\Users\cnkomo\source\repos\ExDemo\ExDemo\bin\Debug\net8.0\ExDemo.exe
+C:\Users\cnkomo\source\repos\ExDemo\ExDemo\bin\Debug\net8.0\ExDemo.deps.json
+C:\Users\cnkomo\source\repos\ExDemo\ExDemo\bin\Debug\net8.0\ExDemo.runtimeconfig.json
+C:\Users\cnkomo\source\repos\ExDemo\ExDemo\bin\Debug\net8.0\ExDemo.dll
+C:\Users\cnkomo\source\repos\ExDemo\ExDemo\bin\Debug\net8.0\ExDemo.pdb
+C:\Users\cnkomo\source\repos\ExDemo\ExDemo\obj\Debug\net8.0\ExDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cnkomo\source\repos\ExDemo\ExDemo\obj\Debug\net8.0\ExDemo.AssemblyInfoInputs.cache
+C:\Users\cnkomo\source\repos\ExDemo\ExDemo\obj\Debug\net8.0\ExDemo.AssemblyInfo.cs
+C:\Users\cnkomo\source\repos\ExDemo\ExDemo\obj\Debug\net8.0\ExDemo.csproj.CoreCompileInputs.cache
+C:\Users\cnkomo\source\repos\ExDemo\ExDemo\obj\Debug\net8.0\ExDemo.dll
+C:\Users\cnkomo\source\repos\ExDemo\ExDemo\obj\Debug\net8.0\refint\ExDemo.dll
+C:\Users\cnkomo\source\repos\ExDemo\ExDemo\obj\Debug\net8.0\ExDemo.pdb
+C:\Users\cnkomo\source\repos\ExDemo\ExDemo\obj\Debug\net8.0\ExDemo.genruntimeconfig.cache
+C:\Users\cnkomo\source\repos\ExDemo\ExDemo\obj\Debug\net8.0\ref\ExDemo.dll
